@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "MFedatto",
+    "version": "1.0",
+    "description": "MFedatto color theme",
+    "theme": {
+        "images": {
+            "theme_frame": "images/frame.png",
+            "theme_toolbar": "images/toolbar.png",
+            "theme_tab_background": "images/tab_background.png",
+            "theme_ntp_background": "images/ntp_background.png"
+        },
+        "colors": {
+            "frame": [4, 250, 250],
+            "toolbar": [4, 204, 156],
+            "tab_text": [0, 51, 51],
+            "background_tab": [4, 156, 156],
+            "background_tab_text": [0, 51, 51]
+        }
+    }
+}
